@@ -3,7 +3,12 @@
 
 int main(void)
 {
-    int length = get_int("minutes:");
+    int length;
+    do
+    {
+        length = get_int("minutes:");
+    }
+    while (length < 0);
     int bottles = length * 12;
     printf("bottles: %i\n", bottles);
 }
