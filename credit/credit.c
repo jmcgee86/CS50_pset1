@@ -1,3 +1,9 @@
+// prc-matt - same comment regarding the space after Number:
+// prc-matt - variable names are pretty good. maybe add in cc before number to make it known it is a credit card? or cardNum?
+// prc-matt - i like how your algorithm will exit out instantly if the card number is invalid, before the math part is run
+// prc-matt - program runs as it should
+// prc-matt - the variable names in this example are tricky because they can be so similar, but your code does a nice job of explaining what is going on and where
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>

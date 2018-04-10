@@ -1,3 +1,10 @@
+// prc-matt - similar to what happened in mario, a space after owed? would help the user see the input line more clearly. i think the pset actually calls for a line break after the input line
+// prc-matt - program runs as it should. negative numbers are not taken in and decimals work
+// prc-matt - the comments are great and they explain each of the while loops well
+// prc-matt - nice variable names as well.
+// prc-matt - style50 brings up having a new line on your printf line, but i think that is just because the comment is long. so not needed
+
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>

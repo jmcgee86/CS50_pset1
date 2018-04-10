@@ -1,3 +1,8 @@
+// prc-matt - see comments in mario less regarding spacing between different parts of the code
+// prc-matt - the program runs and does not take negative numbers or anything over 23
+// prc-matt - see comment in mario less regarding space after 23:
+// prc-matt - this actually improves on the mario less code because it uses all the same great descriptive variables but also adds in comments in the for loops to say what each one is doing
+
 #include <stdio.h>
 #include <cs50.h>
 
